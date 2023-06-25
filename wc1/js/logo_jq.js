@@ -1,3 +1,4 @@
+//sss
 $(function() {
 	
 	// related examples and more: http://jquery.malsup.com/cycle/browser.html

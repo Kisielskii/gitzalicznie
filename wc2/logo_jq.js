@@ -1,5 +1,5 @@
 $(function() {
-	
+	//hej
 	// related examples and more: http://jquery.malsup.com/cycle/browser.html
 	
 	for (var i = 1; i <= 2; i++) {
